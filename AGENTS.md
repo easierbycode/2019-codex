@@ -108,4 +108,4 @@ button group with a concentric glow), `NumberDisplay` (atlas digit renderer),
   by 60 (the original PixiJS ticker delta was already ~1, and the early refactor
   notes that multiplied by 60 caused position blow-ups and 60× fire rates).
 - Game data field names come straight from `game.json`: `spgage` (CA gauge),
-  `bulletData` (enemy/boss projectile recipe), `anim` (boss animation sets).
+  `projectileData` (enemy/boss projectile recipe), `anim` (boss animation sets).
